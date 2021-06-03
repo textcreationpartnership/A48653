@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the clergy of Hampshire; or A brief catalogue of the learned, grave, religious, and painfull minister of Hampshire Who have been imprisoned, plundered, and barbarously used, deprived of all livelyhood, for themselves and their families, in the late rebellion, for their constancy in the Protestant religion, and their loyalty to their King, under that grand Presbyterian tyranny.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48653</idno><idno type="EEBO-CITATION">99829370</idno>
+  <idno type="VID">33809</idno>
+  <idno type="EEBO-PROQUEST">2240865705</idno>
+  
+            <idno type="STC">Wing L2415A</idno>
+            <idno type="STC">ESTC R217721</idno>
+            <idno type="PROQUEST">99829370</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829370e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the clergy of Hampshire; or A brief catalogue of the learned, grave, religious, and painfull minister of Hampshire Who have been imprisoned, plundered, and barbarously used, deprived of all livelyhood, for themselves and their families, in the late rebellion, for their constancy in the Protestant religion, and their loyalty to their King, under that grand Presbyterian tyranny.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed to shew the world the stubbornnesse and cruelty of the Presbyters,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  England --  Hampshire --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterians --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Hampshire (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33809:1"/>
+            <p>A LIST OF THE CLERGY of HAMPSHIRE; OR A Brief Catalogue Of the LEARNED, GRAVE, RELIGIOUS, AND PAINFULL MINISTERS OF HAMPSHIRE.</p>
+            <p>Who have been Imprisoned, Plundered, and barbarously used, deprived of all Livelyhood, for themselves and their Families, in the Late REBELLION; for their Constancy in the Protestant Religion, and their Loyalty to their KING, under that Grand PRESBYIERIAN Tyranny.</p>
+            <q>
+               <bibl>
+                  <hi>Gen. 49.7.</hi>
+               </bibl>
+               <p>Cursed be their Wrath for it was fierce, and their Rage for it was cruel; I will divide them in Jacob, and scatter them in Israel.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed to shew the World the Stubbornnesse and Cruelty of the Presbyters. 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33809:2"/>
+            <pb n="1" facs="tcp:33809:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Met here by chance with a seasonable sheet call'd a Bill of Mortality, being a List of the ejected Orthodox and Loyal Divines in the City of <hi>London,</hi> under the late Pres<g ref="char:EOLhyphen"/>byterian Tyranny. And another Catalogue of certain Preachers of the same City, whose mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths the law ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h lately stop'd, which last doth cause a great clamour abroad. Now to undeceive the ignorant seduced People of the Nation, be<g ref="char:EOLhyphen"/>ing a great expedient to advance the peace of the Church and State, I cannot but commend his love to both, that hath begun so good a work, as to publish the names of both the e<g ref="char:EOLhyphen"/>jected parties, that the very People who have been so long misled, may judge which side have most reason to cry out of persecution, whether the former, who were all ejected, and Plundred, most Sequestred, and many Imprisoned, and Murdered, some by the pretended Sword of Justice, others starved and poyson'd, and all this done contrary to Law by Rebells and Traytors; or the latter (who are not a quarter of the number of the former) who, first, for not conforming to the Government of the same Church which gave most of them their Orders, and is establisht by the Ancient Funda<g ref="char:EOLhyphen"/>mental Laws of the Land, and secondly, because they may not be permitted to live in a perpetuall freedom to alter the Government of Church and State whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>soever they have opportunity: They are only e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected out of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Livings which most of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enjoy'd by Rapine, and permitted to keep those great Riches which they got by preaching Re<g ref="char:EOLhyphen"/>bellion. Now, Friend, being very sensible what a right un<g ref="char:EOLhyphen"/>derstanding this may work in the good People of this Land.
+<pb n="2" facs="tcp:33809:3"/> I have club'd my mite towards it and have sent you a per<g ref="char:EOLhyphen"/>fect List of the sequestred Divines in our County, and if eve<g ref="char:EOLhyphen"/>ry one that loves their own Posterity and the peace of <hi>Sion</hi> would do as much, I hope that by Gods blessing the happiness of this Nation would be setled upon a sure and lasting Foun<g ref="char:EOLhyphen"/>dation, which shall be the constant Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>The Churches Son and your Servant</hi> T. C.</signed>
+            </closer>
+         </div>
+         <div type="lists">
+            <list>
+               <head>In the Deanery of Winchester.</head>
+               <item>1 THe Dean and the twelve Prebendaries, and the two Archdeacons, and all the other Officers of the same Church, to the number of thirty at the least, all turned out and plundred, and many of them imprisoned.</item>
+               <item>2 St. Mary Calendar, and Lawrence, Mr. <hi>William Taylor</hi> sequestred and plundred.</item>
+               <item>3 Chilcombe, Mr. <hi>Fagor</hi> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>questred and plundred.</item>
+               <item>4 Crawley, Dr. <hi>Alexander,</hi> sequestred and plundred.</item>
+               <item>5 Kingsgate and St. Maurice, Mr. <hi>Alworth</hi> sequestred and plun<g ref="char:EOLhyphen"/>dred.</item>
+               <item>6 Morestead, Mr. <hi>Gosling</hi> sequestred.</item>
+               <item>7 St. Clements, Mr. <hi>Holloway,</hi> sequestred and plundred</item>
+               <item>8 St. Thomas, Mr. <hi>Cotten</hi> sequestred and plundred.</item>
+               <item>9 St Johns and St. Peters in Soca, <hi>Mr. Lucy</hi> sequestred.</item>
+               <item>10 St. Michaels, Mr. <hi>Martin</hi> sequestred.</item>
+               <item>11 Stoak Episcopi, Mr. <hi>Gawen</hi> sequestred.</item>
+               <item>12 Weeke, Mr. <hi>Trussell</hi> sequestred.</item>
+               <item>13 Winhal, Mr. <hi>Tutt</hi> sequestred.</item>
+               <item>14 St. Crosse Hospital, Dr. <hi>Lewis.</hi>
+               </item>
+            </list>
+            <pb n="3" facs="tcp:33809:3"/>
+            <list>
+               <head>In the Deanery of <hi>Arlesford.</hi>
+               </head>
+               <item>1 ARlesford, Dr. <hi>Peter Heylin</hi> sequestred and plun<g ref="char:EOLhyphen"/>dred, and his great Library all taken away by Coll. <hi>Rich. Norton</hi> of <hi>Southweek.</hi>
+               </item>
+               <item>2 Avington, <hi>Dr. Green</hi> sequestred.</item>
+               <item>3 Bramdean, Mr. <hi>Rolfe</hi> sequestred and plundred.</item>
+               <item>4 Cheriton, Mr. <hi>Hugh Halswell</hi> sequestred.</item>
+               <item>5 Hinton Amner, Dr. <hi>Stanley</hi> sequestred and plundred.</item>
+               <item>6 Itchin Stoke, Mr. <hi>Maddocks</hi> sequestred.</item>
+               <item>7 Sutton Episcopi, Mr. <hi>Loweman</hi> sequestred,</item>
+               <item>8 Worthy Martyr, Mr. <hi>Clapham</hi> sequestred.</item>
+            </list>
+            <list>
+               <head>In the Deanery of <hi>Alton.</hi>
+               </head>
+               <item>1 ALton, Mr. <hi>Mason</hi> sequestred and plundred.</item>
+               <item>2 Bentworth, Mr. <hi>Hood</hi> sequestred.</item>
+               <item>3 Hedly, Mr. <hi>Thomson</hi> sequestred.</item>
+               <item>4 Selbarne, Mr. <hi>Langworth</hi> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>questred.</item>
+            </list>
+            <list>
+               <head>In the Deanery of <hi>Basing-Stoke.</hi>
+               </head>
+               <item>1 AShdean, Mr. <hi>Holdepp.</hi>
+               </item>
+               <item>2 Basing-Stoke, Mr. <hi>Webb.</hi>
+               </item>
+               <item>3 Crundale Mr. <hi>Lively</hi>
+               </item>
+               <item>4 Clidsden, Mr. <hi>Mornige.</hi>
+               </item>
+               <item>5 Deane.</item>
+               <item>6 Heckfield, Mr. <hi>Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sse.</hi>
+               </item>
+               <item>7 Hannilon, Mr. <hi>Page.</hi>
+               </item>
+               <item>8 Odiam, Mr. <hi>Hollnesse.</hi>
+               </item>
+               <item>9 Southwarnborough, Dr. <hi>Peter Heylyn.</hi>
+               </item>
+               <item>10 Dogmersfield, Mr. <hi>Hanham.</hi>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:33809:4"/>
+            <list>
+               <head>In <hi>Andover</hi> Deanery.</head>
+               <item>1 ABbots Inn, Dr. <hi>Hyde</hi> imprisoned.</item>
+               <item>2 Andover, Mr. <hi>Clarke</hi> sequestred &amp; imprisoned</item>
+               <item>3 Amport, Mr. <hi>Souch</hi> sequestred and imprisoned.</item>
+               <item>4 Burroughcleere, Dr. <hi>Lucy</hi> now Bishop of St. <hi>Davids</hi>
+               </item>
+               <item>5 East Woodhaw, Dr. <hi>Lewis.</hi>
+               </item>
+               <item>6 Jacombe, Mr. <hi>Whistler.</hi>
+               </item>
+               <item>7 Heighcleere, Dr. <hi>Lucy.</hi>
+               </item>
+               <item>8 Lukenholt, Mr. <hi>Lakes.</hi>
+               </item>
+               <item>9 Overwallop, Dr. <hi>Younge,</hi> the Reverend Dean of <hi>Winchester,</hi> sequestred and plundred, and a Tinker pla<g ref="char:EOLhyphen"/>ced to preach there.</item>
+               <item>10 Upclatford, Mr. <hi>Sambarne.</hi>
+               </item>
+               <item>11 Wherwell Rectory, Dr. <hi>Nicholas.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In <hi>Droxford</hi> Deanery.</head>
+               <item>1 ALoer Stoke, Mr. <hi>Rolph</hi> sequestred and plundred.</item>
+               <item>2 Buriton, Dr. <hi>Lany</hi> now Bishop of <hi>Peterborough.</hi>
+               </item>
+               <item>3 Blendworth, Mr. <hi>Shawe,</hi>
+               </item>
+               <item>4 Bedhampton, Mr. <hi>Aderne.</hi>
+               </item>
+               <item>5 Clalton, Dr. <hi>Gillingham.</hi>
+               </item>
+               <item>6 Clanfield, <hi>Mr. Heath.</hi>
+               </item>
+               <item>7 Droxford, Dr. <hi>Preston.</hi>
+               </item>
+               <item>8 Eastmeane, <hi>Mr. S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ingly</hi> sequestred and imprisoned</item>
+               <item>9 Fearham, <hi>Mr. Hamilton.</hi>
+               </item>
+               <item>10 Havant, <hi>Mr. Ruigsted.</hi>
+               </item>
+               <item>11 Portsmouth, <hi>Mr. Flea.</hi>
+               </item>
+               <item>12 Rowner, <hi>Mr. Searle.</hi>
+               </item>
+               <item>13 Upham <hi>Mr. Waferer.</hi>
+               </item>
+               <item>14 Warnford Dr. <hi>Coxe.</hi>
+               </item>
+               <pb n="5" facs="tcp:33809:4"/>
+               <item>15 Warblington, <hi>Mr. Payne.</hi>
+               </item>
+               <item>16 Westmeane, <hi>Mr. Bloudworth,</hi>
+               </item>
+               <item>17 Waltham, Dr. <hi>Gulston.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the Deanery of the Isle of <hi>Wight.</hi>
+               </head>
+               <item>1 BOnchurch, Mr. <hi>Dickson.</hi>
+               </item>
+               <item>2 Calbome, and Dr. <hi>Sydnham.</hi>
+               </item>
+               <item>3 Brixton, Dr. <hi>Sydnham.</hi>
+               </item>
+               <item>4 Freshwater, Mr. <hi>Goodman.</hi>
+               </item>
+               <item>5 Godshill, Mr. <hi>Crosfield.</hi>
+               </item>
+               <item>6 Gatscombe, Mr. <hi>Price.</hi>
+               </item>
+               <item>7 St. Lawrence, Mr. <hi>Mosely.</hi>
+               </item>
+               <item>8 Woolton, Mr. <hi>Barlouws</hi> sequestred and impriso<g ref="char:EOLhyphen"/>ned in a Dungeon for many weeks.</item>
+               <item>9 Youverland, Mr. <hi>Richards.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the Deanery of <hi>Sumborne.</hi>
+               </head>
+               <item>1 BRoughton, Mr. <hi>Donse.</hi>
+               </item>
+               <item>2 Barton Stacy, Mr. <hi>Morgan.</hi>
+               </item>
+               <item>3 Chilbolton, Dr. <hi>Hinton</hi> Imprisoned.</item>
+               <item>4 Houghton, Dr. <hi>Alexander</hi> sequestred and plundred.</item>
+               <item>5 Seckford, Mr. <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se</hi> Imprisoned.</item>
+               <item>6 Longstoke, Mr. <hi>Beasly</hi> Imprisoned.</item>
+               <item>7 Michelmersh, Mr. <hi>Maningham.</hi>
+               </item>
+               <item>8 Motson, Dr. <hi>Stanly.</hi>
+               </item>
+               <item>9 Stoke Charity, Mr. <hi>Pinke</hi> Imprisoned.</item>
+               <item>10 Iwisbury, Mr. <hi>Eastgate.</hi>
+               </item>
+               <item>11 Wanston, Dr. <hi>Burby.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the Deanery of <hi>Southampton.</hi>
+               </head>
+               <item>1 BOt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Dr. <hi>Lambe.</hi>
+               </item>
+               <item>2 Dibden, Mr. <hi>Squire.</hi>
+               </item>
+               <pb n="6" facs="tcp:33809:5"/>
+               <item>3 Fauly, Mr. <hi>Tull.</hi>
+               </item>
+               <item>4 Murshing, Mr. <hi>Good.</hi>
+               </item>
+               <item>5 Holycood, Mr. <hi>Edmonson.</hi>
+               </item>
+               <item>6 Northstoneham, Mr. <hi>Alcocke.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the Deanery of <hi>Fordingbridge.</hi>
+               </head>
+               <item>1 CHrist-Church, Mr. <hi>Imber</hi> sequestred, plundred and imprisoned.</item>
+               <item>2 Fordingbridge, Mr. <hi>Cuffe</hi> sequestred.</item>
+               <item>3 Minstead, Mr. <hi>Lake</hi> sequestred.</item>
+               <item>4 Milton, Mr. <hi>Bound</hi> sequestred.</item>
+               <item>5 Soply, Mr. <hi>Lakes</hi> sequestred.</item>
+            </list>
+            <p>This is as perfect a List as I could Collect in so short a time, but note, that though the word <hi>(Sequestred)</hi> be not added to every name herein, yet every one of these were sequestred at least, and many Plundred and Im<g ref="char:EOLhyphen"/>prisoned.</p>
+            <p>The total summ of the Ministers Ejected above 100 with the Dean and Chapter, whereof Drs. at least. 25.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33809:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
